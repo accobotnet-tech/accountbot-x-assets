@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#1a1a2e"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="120" cy="80" r="180" fill="#2dd4bf" fill-opacity="0.12"/>
+  <circle cx="1080" cy="600" r="200" fill="#38bdf8" fill-opacity="0.10"/>
+  <text x="80" y="70" fill="#f8fafc" font-size="48" font-weight="bold" font-family="DejaVu Sans, Arial, sans-serif">Reseller panel</text>
+  <text x="80" y="110" fill="#94a3b8" font-size="22" font-family="DejaVu Sans, Arial, sans-serif">Credits - supported services - AccountBot reseller tools</text>
+  <rect x="100" y="150" width="1000" height="410" rx="20" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+  <circle cx="130" cy="180" r="8" fill="#f87171"/><circle cx="160" cy="180" r="8" fill="#facc15"/><circle cx="190" cy="180" r="8" fill="#4ade80"/>
+  <text x="230" y="186" fill="#94a3b8" font-size="16" font-family="DejaVu Sans, Arial, sans-serif">reseller.accountbot.org</text>
+  <rect x="120" y="210" width="200" height="330" rx="12" fill="#0f172a"/>
+  <rect x="135" y="230" width="170" height="40" rx="8" fill="#2dd4bf"/>
+  <text x="155" y="256" fill="#0f172a" font-size="16" font-family="DejaVu Sans, Arial, sans-serif">Dashboard</text>
+  <rect x="350" y="210" width="350" height="130" rx="12" fill="#0f172a" stroke="#2dd4bf" stroke-width="2"/>
+  <text x="370" y="250" fill="#94a3b8" font-size="16" font-family="DejaVu Sans, Arial, sans-serif">Credit balance</text>
+  <text x="370" y="300" fill="#2dd4bf" font-size="40" font-weight="bold" font-family="DejaVu Sans, Arial, sans-serif">....</text>
+  <rect x="720" y="210" width="350" height="130" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <text x="740" y="250" fill="#94a3b8" font-size="16" font-family="DejaVu Sans, Arial, sans-serif">Supported services</text>
+  <text x="740" y="300" fill="#f8fafc" font-size="28" font-family="DejaVu Sans, Arial, sans-serif">Browse catalogue</text>
+  <text x="40" y="640" fill="#94a3b8" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">AccountBot.org</text>
+  <text x="920" y="640" fill="#94a3b8" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Digital Marketplace</text>
+</svg>
