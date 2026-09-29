@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#1a1a2e"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="120" cy="80" r="180" fill="#2dd4bf" fill-opacity="0.12"/>
+  <circle cx="1080" cy="600" r="200" fill="#38bdf8" fill-opacity="0.10"/>
+  <text x="80" y="70" fill="#f8fafc" font-size="48" font-weight="bold" font-family="DejaVu Sans, Arial, sans-serif">AI Tools category</text>
+  <text x="80" y="110" fill="#94a3b8" font-size="22" font-family="DejaVu Sans, Arial, sans-serif">Browse marketplace AI listings - duration options per product</text>
+  <line x1="600" y1="270" x2="600" y2="360" stroke="#387882" stroke-width="3"/>
+  <line x1="460" y1="380" x2="600" y2="360" stroke="#387882" stroke-width="3"/>
+  <line x1="740" y1="380" x2="600" y2="360" stroke="#387882" stroke-width="3"/>
+  <line x1="530" y1="480" x2="600" y2="360" stroke="#387882" stroke-width="3"/>
+  <line x1="670" y1="480" x2="600" y2="360" stroke="#387882" stroke-width="3"/>
+  <line x1="600" y1="270" x2="460" y2="380" stroke="#387882" stroke-width="3"/>
+  <line x1="600" y1="270" x2="740" y2="380" stroke="#387882" stroke-width="3"/>
+  <line x1="460" y1="380" x2="530" y2="480" stroke="#387882" stroke-width="3"/>
+  <line x1="740" y1="380" x2="670" y2="480" stroke="#387882" stroke-width="3"/>
+  <circle cx="600" cy="270" r="18" fill="#38bdf8"/>
+  <circle cx="460" cy="380" r="18" fill="#38bdf8"/>
+  <circle cx="740" cy="380" r="18" fill="#38bdf8"/>
+  <circle cx="530" cy="480" r="18" fill="#38bdf8"/>
+  <circle cx="670" cy="480" r="18" fill="#38bdf8"/>
+  <circle cx="600" cy="360" r="36" fill="#2dd4bf"/>
+  <text x="40" y="640" fill="#94a3b8" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">AccountBot.org</text>
+  <text x="920" y="640" fill="#94a3b8" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Digital Marketplace</text>
+</svg>
